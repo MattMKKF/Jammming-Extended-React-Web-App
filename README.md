@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+https://mkkf-react-jammming.surge.sh/
+
 ## Available Scripts
 
 In the project directory, you can run:
